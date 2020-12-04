@@ -66,7 +66,7 @@
 
 
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
-            <h3>Iniciando com Laravelllll!!!!!!!</h3>
+            <h3>Iniciando com Laravel!!!!!!!</h3>
             <icon class="far fa-file-alt" ></icon>
             
                 <div class="flex justify-center pt-8 sm:justify-start sm:pt-0">
