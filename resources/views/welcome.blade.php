@@ -17,7 +17,7 @@
 
         <style>
         .header {
-            float: top;
+            float: right;
             padding: 5px;
             text-align: center;
             background: #1abc9c;
