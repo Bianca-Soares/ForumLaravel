@@ -16,6 +16,13 @@
         </style>
 
         <style>
+        .header {
+    padding: 5px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+
+}
             body {
                 background: #DC143C;
                 font-family: 'Nunito';
@@ -37,7 +44,11 @@
                     @endauth
                 </div>
             @endif
-
+            <div class="header">
+    <h3>Header</h3>
+    <p>My supercool header</p>
+  </div>
+ 
 
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
