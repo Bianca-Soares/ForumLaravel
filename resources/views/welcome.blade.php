@@ -17,12 +17,11 @@
 
         <style>
         .header {
-            float: top;
-            position: absolute;
-            padding: 5px;
+            padding: 60px;
             text-align: center;
-            background: #DC143C;
+            background: #1abc9c;
             color: white;
+            font-size: 30px;
 
 }
             body {
