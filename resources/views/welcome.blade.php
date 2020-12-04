@@ -18,11 +18,10 @@
         <style>
         .header {
             float: top;
-            float: top;
             position: absolute;
             padding: 5px;
             text-align: center;
-            background: #1abc9c;
+            background: #DC143C;
             color: white;
 
 }
@@ -30,6 +29,14 @@
                 background: #DC143C;
                 font-family: 'Nunito';
             }
+
+            #navbar{
+            float: top;
+            float: left;
+            position: absolute;
+            top: 10px;
+            right: 10px;
+        }
         </style>
     </head>
     <body class="antialiased">
