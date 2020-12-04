@@ -1,6 +1,9 @@
 function Home(){
     
- return <div>HOME</div>
+ return <div>HOME
+
+     <a href="html/home">Menu</a>
+ </div>
 
 }
 

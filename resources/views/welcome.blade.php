@@ -17,10 +17,11 @@
 
         <style>
         .header {
-    padding: 5px;
-    text-align: center;
-    background: #1abc9c;
-    color: white;
+            float: top;
+            padding: 5px;
+            text-align: center;
+            background: #1abc9c;
+            color: white;
 
 }
             body {
