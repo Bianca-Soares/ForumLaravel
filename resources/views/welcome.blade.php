@@ -25,7 +25,7 @@
     <p></p>
             <a href="/home">Link home</a>
 
-            <h3>Banco de dados postgresql configurado</h3>
+            <h3>Banco de dados postgresql configurado Heroku </h3>
 
     </body>
 </html>
